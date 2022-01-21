@@ -62,7 +62,7 @@
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <jedis.version>2.7.3</jedis.version>
         <redisson.version>3.7.0</redisson.version>
-        <j2cache.version>2.3.21-release</j2cache.version>
+        <j2cache.version>2.8.4-release</j2cache.version>
         <guava.version>23.0</guava.version>
     </properties>
     <repositories>
